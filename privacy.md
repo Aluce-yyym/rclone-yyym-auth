@@ -6,7 +6,7 @@ Google user data is used solely for personal file management, synchronization, a
 
 The application does not sell, share, or transfer Google user data to third parties for advertising or other commercial purposes.
 
-OAuth credentials and tokens are stored locally in the owner's rclone configuration.
+OAuth credentials and tokens are stored locally in the owner's rclone-yyym configuration.
 
 The application complies with the Google API Services User Data Policy, including the Limited Use requirements.
 
